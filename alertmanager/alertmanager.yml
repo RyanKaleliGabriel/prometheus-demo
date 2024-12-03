@@ -16,5 +16,5 @@ receivers:
     smarthost: smtp.gmail.com:587
     auth_username: ryankalelidev@gmail.com
     auth_identity: ryankalelidev@gmail.com
-    auth_password: lbntsttvvgivpiwv
+    auth_password: <app_password>
     send_resolved: true
